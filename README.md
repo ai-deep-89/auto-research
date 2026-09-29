@@ -188,11 +188,3 @@ The system includes a comprehensive evaluation framework:
 ## 📄 License
 
 MIT License
-
-## 🙏 Acknowledgments
-
-This project stands on the shoulders of giants, incorporating ideas from:
-- LightAgent (multi-agent framework)
-- GoA - Graph-of-Agents (ICLR 2026)
-- EvoAgent (memory evolution)
-- ResearchHarness (evaluation harness)
