@@ -182,10 +182,3 @@ auto-research-agent/
 
 MIT License
 
-## 🙏 致谢
-
-本项目站在巨人的肩膀上，借鉴了以下项目：
-- LightAgent（多智能体框架）
-- GoA - Graph-of-Agents（ICLR 2026）
-- EvoAgent（记忆进化）
-- ResearchHarness（评测工具）
